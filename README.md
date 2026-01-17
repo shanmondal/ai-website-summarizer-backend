@@ -13,29 +13,9 @@ Backend (Render):
 https://ai-website-summarizer-backend.onrender.com
 
 🛠 Tech Stack
-Frontend
+Frontend ----- React, Vite, Fetch API
 
-React
-
-Vite
-
-Fetch API
-
-Backend
-
-Node.js
-
-Express.js
-
-Axios
-
-Cheerio (HTML parsing)
-
-Groq SDK
-
-AI Model
-
-Groq API
+Backend ----- Node.js, Express.js, Axios, Cheerio (HTML parsing), Groq SDK, AI Model, Groq API
 
 Model: llama-3.1-8b-instant
 
@@ -96,11 +76,9 @@ Removes non-content elements:
 
 <footer>
 
-Extracts text from:
+Extracts text from:<p>,<h1>,<h2>,<h3>
 
-<p>
 
-<h1>, <h2>, <h3>
 
 To control token size and cost, the extracted text is limited:
 
