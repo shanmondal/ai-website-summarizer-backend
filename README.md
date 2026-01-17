@@ -1,10 +1,10 @@
-AI-Driven Website Summarizer Web App
+<h3> AI-Driven Website Summarizer Web App
 
-A full-stack web application that summarizes the content of any public website URL using an AI language model.
+<h6>A full-stack web application that summarizes the content of any public website URL using an AI language model.
 Users provide a URL, the backend extracts visible text from the webpage, sends it to an AI model, and returns a concise summary.
 
 
-🚀 Live Demo
+<h3>🚀 Live Demo</h3>  
 
 Frontend (GitHub Pages):
 https://shanmondal.github.io/ai-website-summarizer/
