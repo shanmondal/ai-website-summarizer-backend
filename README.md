@@ -76,7 +76,7 @@ Removes non-content elements:
 
 <footer>
 
-Extracts text from:<p>,<h1>,<h2>,<h3>
+Extracts text from: HTML tags 
 
 
 
