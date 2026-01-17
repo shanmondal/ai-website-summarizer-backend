@@ -64,13 +64,8 @@ const { data } = await axios.get(url);
 
 Then Cheerio is used to parse the HTML and extract only meaningful, visible text:
 
-Removes non-content elements:
-
-
-
+Removes non-content elements
 Extracts text from: HTML tags 
-
-
 
 To control token size and cost, the extracted text is limited:
 
@@ -127,14 +122,14 @@ Only publicly accessible webpages are processed
 
 📂 Project Structure (Backend)
 backend/
-├── controllers/
-│   └── summarizeController.js
-├── routes/
-│   └── summarizeRoute.js
-├── utils/
-│   └── extractText.js
-├── index.js
-├── package.json
+├── controllers/<br>
+│   └── summarizeController.js<br>
+├── routes/<br>
+│   └── summarizeRoute.js<br>
+├── utils/<br>
+│   └── extractText.js<br>
+├── index.js<br>
+├── package.json<br>
 
 ⚙️ API Endpoint
 POST /api/summarize
