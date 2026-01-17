@@ -120,8 +120,8 @@ No user data is saved or logged
 
 Only publicly accessible webpages are processed
 
-📂 Project Structure (Backend)
-backend/
+📂 Project Structure (Backend)<br>
+backend/<br>
 ├── controllers/<br>
 │   └── summarizeController.js<br>
 ├── routes/<br>
