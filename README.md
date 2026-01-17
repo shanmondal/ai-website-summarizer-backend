@@ -66,15 +66,7 @@ Then Cheerio is used to parse the HTML and extract only meaningful, visible text
 
 Removes non-content elements:
 
-<script>
 
-<style>
-
-<nav>
-
-<header>
-
-<footer>
 
 Extracts text from: HTML tags 
 
